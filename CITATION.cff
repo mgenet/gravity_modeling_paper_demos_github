@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Peyraut
+    given-names: Alice
+    orcid: https://orcid.org/0009-0000-9445-8060
+  - family-names: Genet
+    given-names: Martin
+    orcid: https://orcid.org/0000-0003-2204-201X
+title: "Gravity modeling paper demos"
+url: https://github.com/alicepeyraut/gravity_modeling_paper_demos_github
+doi: https://doi.org/10.1007/s10237-024-01876-w
