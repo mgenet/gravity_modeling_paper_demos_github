@@ -62,7 +62,7 @@ jobs:
 
             # Download the build artifacts from the previous job
             - name: Download Build Artifacts
-              uses: actions/download-artifact@v3
+              uses: actions/download-artifact@v4
               with:
                 name: jupyter-book-build
                 path: './jupyter-book-build/'
