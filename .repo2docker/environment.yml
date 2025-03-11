@@ -44,4 +44,4 @@ dependencies:
     - meshio==5.3
 
   # mechanics stuff
-    - dolfin_mech==2024.1.19
+    - dolfin-mech==2024.1.19
