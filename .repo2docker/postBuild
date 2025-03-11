@@ -20,6 +20,8 @@ cd
 echo "alias ll=\"ls -lh\"" >> ~/.bash_aliases
 echo "alias la=\"ls -lah\"" >> ~/.bash_aliases
 
+pip install --no-cache-dir --force-reinstall dolfin_mech==2024.1.19
+
 rm ~/apt.txt
 rm ~/environment.yml
 rm ~/postBuild
