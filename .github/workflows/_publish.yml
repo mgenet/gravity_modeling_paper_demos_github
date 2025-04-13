@@ -36,7 +36,7 @@ jobs:
     
             # Save the build output as artifacts (to be reused in deploy stage)
             - name: Upload Build Artifacts
-              uses: actions/upload-artifact@v4
+              uses: actions/upload-artifact@v1
               with:
                 name: jupyter-book-build
                 path: _build/html/
