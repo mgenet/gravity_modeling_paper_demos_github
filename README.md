@@ -2,4 +2,4 @@
 
 Interactive demos can be found at [https://alicepeyraut.github.io/gravity_modeling_paper_demos_github](https://alicepeyraut.github.io/gravity_modeling_paper_demos_github).
 
-(Main library can be found at [https://gitlab.inria.fr/mgenet/dolfin_mech](https://gitlab.inria.fr/mgenet/dolfin_mech).)
+(Main library can be found at [https://github.com/mgenet/dolfin_mech](https://github.com/mgenet/dolfin_mech).)
